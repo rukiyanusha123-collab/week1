@@ -1,0 +1,28 @@
+body{
+    background-color:rgb(235, 52, 131,0.5)
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+    .navbar ol{
+        display:flex;
+        gap:390px;
+        list-style:none;
+        background-color:rgba(29, 122, 119,0.5);
+        padding:30px;
+        position: fixed;
+        top:0px;
+        
+    }
+.big-bar{
+    background-color:rgba(122, 29, 62,0.5);
+    height: 350px;
+    display: flex;
+    flex-direction: row ;
+    align-items: end;
+    margin-top:100px;
+    
+    
+    }

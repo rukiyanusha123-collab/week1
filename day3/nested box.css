@@ -1,0 +1,44 @@
+.margin {
+    background-color: brown;
+    height: 500px;
+    width: 800px;
+    display: block;
+    gap: 50px;
+    border: black solid;
+    margin-left: 150px;
+    text-align: center;
+    
+}
+
+.border {
+    background-color: blueviolet;
+    height: 400px;
+    width: 400px;
+    gap: 50px;
+    display: block;
+    margin-left: 150px;
+    text-align: center;
+    
+}
+
+.padding {
+
+    background-color:goldenrod;
+    height: 300px;
+    width: 300px;
+    gap: 50px;
+    display: block;
+    margin-left: 150px;
+    text-align: center;
+
+}
+
+.content {
+    background-color: darkolivegreen;
+    height: 200px;
+    width: 200px;
+    display: block;
+    gap: 50px;
+    margin-left: 150px;
+    text-align: center;
+}

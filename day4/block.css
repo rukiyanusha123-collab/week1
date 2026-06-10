@@ -1,0 +1,40 @@
+.navbar {
+    display:flex;
+    gap:400px;
+    background-color: rgba(183, 43, 226, 0.5);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 50px;
+    width: 1460px;
+    position:fixed;
+    top:0px;
+    padding: 30px;
+    list-style: none;
+}
+.box{
+    background-color: darkslategrey;
+    height: 300px;
+    width: 500px;
+    display: block;
+    text-align: center;
+    margin-top: 120px;
+    position: sticky;
+    top:0;
+}
+.inline{
+    background-color: hotpink;
+    height:300px;
+    width: 500px;
+    display:block;
+    text-align: center;
+    margin-top: 70px;
+}
+.nextbox{
+    background-color:maroon;
+    height:300px;
+    width: 500px;
+    display:block;
+    text-align: center;
+    margin-top: 30px;
+
+
+}
