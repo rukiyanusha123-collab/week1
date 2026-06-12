@@ -1,0 +1,146 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    padding: 10px;
+    justify-content: center;
+}
+
+
+.card1 {
+
+    border: black solid;
+    background-color: saddlebrown;
+    height: 350px;
+    width: 300px;
+    text-align: center;
+    display: inline block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+
+
+
+}
+
+.card2 {
+
+    border: black solid;
+    background-color: darkred;
+    height: 350px;
+    width: 300px;
+    text-align: center;
+    display: inline-block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+
+}
+
+.card3 {
+    border: black solid;
+    background-color: midnightblue;
+    height: 350px;
+    width: 300px;
+    text-align: center;
+    display: inline block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+
+}
+
+.main {
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkslategray;
+}
+
+.cross {
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkslategray;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    top: 10px;
+
+}
+
+.container2 {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 10px;
+    align-items:center;
+    justify-content: center;
+}
+
+
+.card4 {
+
+    border: black solid;
+    background-color: saddlebrown;
+    height: 350px;
+    width: 300px;
+    display: block;
+    display: flex;
+    font-size: xx-large;
+    justify-content: center;
+    
+
+
+}
+
+.card5 {
+
+    border: black solid;
+    background-color: darkred;
+    height: 350px;
+    width: 300px;
+    text-align: center;
+    display: block;
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    align-items: center;
+
+}
+
+.card6 {
+    border: black solid;
+    background-color: midnightblue;
+    height: 350px;
+    width: 300px;
+    text-align: center;
+    display: block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+
+}
+
+.ccc {
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:black;
+}
+
+.mmm {
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    display: flex;
+    margin-right: -120px;
+    
+    
+    
+}
